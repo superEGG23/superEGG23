@@ -1,26 +1,54 @@
----
-## 🌟 Project Showcase: [Project Name]
+# Hey 👋 I'm [Supun sri]
 
-### **Description**
-[A brief, engaging description of your project. What does it do? What problem does it solve? What technologies did you use? Keep it concise and impactful.]
-
-### **Demo**
-
-Here's a quick video showcasing the project in action!
-
-[![Watch the demo video](https://img.youtube.com/vi/[YouTube Video ID]/0.jpg)](https://www.youtube.com/watch?v=[YouTube Video ID])
+🚀 Builder • 🧩 Problem Solver • 🌱 Forever Learning
 
 ---
 
-### **Key Features**
+## 🔥 Featured Projects
 
-* [List a key feature of the project.]
-* [List another key feature.]
-* [Add a third key feature here. You can add more if needed, but a few strong points are better than a long, generic list.]
+### 📦 Warehouse AR+IOT+Block chain (Unity + AR Foundation + bloack chain + Iot)
+Turn real warehouses into interactive 3D spaces with AR + blockchain + iot .
 
-### **Installation & Usage**
+- Persistent 3D mapping
+- Real-time item placement
+- Unity + C# + custom backend with blockchain
 
-**1. Clone the repository:**
+**IN PROGRESS**
 
-```bash
-git clone [https://github.com/](https://github.com/)[YourUsername]/[YourProjectName].git
+---
+
+### 🤖 Arcuro Robot
+A vision-powered mini-waiter-bot navigating with external cameras.
+
+- Path-finding with Opencv Arcuro cordinations
+- Low-cost, high-efficiency design
+- Ir + sound ques + lcd display feedback
+
+🎬 Demo:  
+[![Arcuro Robot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
+
+### 🧠 IOT waste management System For Kandy city
+A smart system to detect, classify, and monitor waste in real time using IoT
+
+- Web interface to monitor bin status, get alerts, and visualize collection patterns and collection truck location monitoring.
+- ESP32 nodes send data to a central server via MQTT/HTTP.
+- Ultrasonic sensors + MPU 6050 + HX711 with Load cells + Dht11 + Neo6M GPS module
+
+🎬 Demo:  yet to add
+[![Dream Dimension Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
+
+
+---
+
+## 🌍 Connect with me
+💼 [LinkedIn](#) 
+
+---
+
+✨ *Coding is just modern-day spellcasting. Let’s build some magic.*
