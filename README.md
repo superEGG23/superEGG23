@@ -1,4 +1,4 @@
-# Hey 👋 I'm [Supun sri]
+# Hey 👋 I'm Supun sri
 
 🚀 Builder • 🧩 Problem Solver • 🌱 Forever Learning
 
