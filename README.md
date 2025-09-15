@@ -23,7 +23,7 @@ A vision-powered mini-waiter-bot navigating with external cameras.
 - Path-finding with Opencv Arcuro cordinations
 - Low-cost, high-efficiency design
 - Ir + sound ques + lcd display feedback
-<img https://github.com/superEGG23/robotics-project-robot-waiter-with-OpenCV-Arcuro-Library/blob/main/centralized%20camera.png?raw=true />
+<img src="https://github.com/superEGG23/robotics-project-robot-waiter-with-OpenCV-Arcuro-Library/blob/main/centralized%20camera.png?raw=true" />
 🎬 Demo:  
 [![Arcuro Robot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
